@@ -18608,11 +18608,3 @@ svg {
 .fe-zoom-out:before {
   content: "\ea06";
 }
-
-#__nuxt{
-  min-height: 100vh;
-}
-
-#__layout{
-  height: 100vh;
-}
